@@ -1,4 +1,4 @@
-# CompMath_FinalProject
+# CompMath-Parabolistica
 
 Заключительный проект по вычислительной математике в МФТИ.
 
